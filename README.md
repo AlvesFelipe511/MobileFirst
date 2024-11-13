@@ -1,2 +1,2 @@
 # MobileFirst
-Projeto feito durante o curso de responsabilidade da Alura.
+Projeto feito durante o curso da Alura.
